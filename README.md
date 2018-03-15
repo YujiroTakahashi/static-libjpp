@@ -27,3 +27,17 @@ $ git clone https://github.com/YujiroTakahashi/static-libjpp.git
 $ cd static-libjpp/include/jumanpp
 $ ./copy.sh
 ```
+
+## run
+```bash
+$ cd static-libjpp
+$ make
+$ ./sample
+
+魅力::true
+が
+たっぷり
+と
+詰まって::true
+いる
+```
